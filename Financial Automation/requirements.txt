@@ -1,0 +1,1 @@
+yfinance>=0.2.40\npandas>=2.1.0\nopenpyxl>=3.1.0\nmatplotlib>=3.8.0\nxlsxwriter>=3.1.0
